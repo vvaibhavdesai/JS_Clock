@@ -9,4 +9,4 @@
  let mm = day.getMinutes() * deg;
  let ss = day.getSeconds() * deg;
 
- hr.style.transform = `rotateZ(${(hh)+(mm/12)}deg)`  // this l 
+ hr.style.transform = `rotateZ(${(hh)+(mm/12)}deg)`  // this
